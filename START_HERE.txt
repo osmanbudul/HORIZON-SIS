@@ -1,0 +1,10 @@
+HORIZON SIS — QUICK START
+
+1. Extract this ZIP into a folder on your Windows laptop.
+2. Install Python 3.10+ (recommended: Python 3.12) and select Add Python to PATH.
+3. Double-click run_windows.bat.
+4. Create the administrator when prompted.
+5. Open http://127.0.0.1:8000 in Chrome or Edge.
+
+For detailed instructions and Parent Portal setup, read README.md.
+To back up your database, run backup_database.bat.
