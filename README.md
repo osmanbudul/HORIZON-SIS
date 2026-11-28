@@ -67,3 +67,5 @@ The included edition is a local school-office application. It works on the lapto
 
 ## Technology
 Python · Django · SQLite · HTML · CSS · Responsive interface
+## Team Members
+- Asma Raapi
