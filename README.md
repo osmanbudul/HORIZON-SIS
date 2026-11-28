@@ -77,3 +77,7 @@ Python · Django · SQLite · HTML · CSS · Responsive interface
 - Student CRUD
 - Search
 -Form Validation
+## Database models
+- **schoolclass**: name, grade, room
+-**subject**: name,code
+-**student**: admission-no,full-name, gender,date-of-birth, phone, school-class (foreignkey to school), status, address
