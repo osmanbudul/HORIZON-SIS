@@ -69,3 +69,7 @@ The included edition is a local school-office application. It works on the lapto
 Python · Django · SQLite · HTML · CSS · Responsive interface
 ## Team Members
 - Asma Raapi
+## how run
+1. pip install -r requirements.txt
+2. python manage.py migrate
+3. python manage.py runserver
